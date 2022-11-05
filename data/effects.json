@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Strength",
+    "scaling": "Ability",
+    "prefix": [
+      "bracers",
+      "gloves",
+      "trinket"
+    ],
+    "suffix": [
+      "belts",
+      "boots",
+      "trinkets"
+    ],
+    "ingredients": [
+      {
+        "name": "Bruised Spore Pod",
+        "bound": 15,
+        "unbound": 30
+      }
+    ]
+  }
+]
